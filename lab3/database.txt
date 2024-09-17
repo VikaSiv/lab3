@@ -1,0 +1,4 @@
+Student_Id = 1, Name = John Doe, Courses = 1
+Student_Id = 2, Name = Jane Smith, Courses = 1
+Teacher_Id = 1, Name = Mr. Johnson, Exp = 10, Courses = 1
+Course_Id = 1, Name = Mathematics, Teacher_Id = 1, Students_Id = 1,2
